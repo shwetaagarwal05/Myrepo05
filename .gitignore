@@ -1,0 +1,10 @@
+app.log
+file.html
+file.java
+index.html2
+old
+
+*.log
+*.java
+*.html
+
